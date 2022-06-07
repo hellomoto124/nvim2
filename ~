@@ -1,0 +1,86 @@
+             packer.nvim - syncing 17 / 86 plugins
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ⟳ lunarvim/colorschemes: checking current commit...
+ ⟳ williamboman/nvim-lsp-installer: checking current commit...
+ ⟳ projekt0n/github-nvim-theme: checking current commit...
+ ⟳ hrsh7th/cmp-buffer: checking current commit...
+ ⟳ nvim-pack/nvim-spectre: checking current commit...
+ ⟳ lewis6991/gitsigns.nvim: checking current commit...
+ ⟳ nvim-lua/popup.nvim: checking current commit...
+ ⟳ f3fora/cmp-spell: checking current commit...
+ ⟳ phaazon/hop.nvim/v1: checking current commit...
+ ⟳ tzachar/cmp-tabnine: checking current commit...
+ ⟳ romgrk/nvim-treesitter-context: checking current commit...
+ ⟳ lewis6991/impatient.nvim: checking current commit...
+ ⟳ nvim-lua/plenary.nvim: checking current commit...
+ ⟳ andymass/vim-matchup: checking current commit...
+ ⟳ lukas-reineke/indent-blankline.nvim: checking current commit...
+ ✓ Shatur/neovim-session-manager: already up to date
+ ✓ akinsho/toggleterm.nvim: already up to date
+ ✓ rcarriga/nvim-notify: already up to date
+ ✓ kyazdani42/nvim-tree.lua: already up to date
+ ✓ nvim-telescope/telescope.nvim: already up to date
+ ✓ ldelossa/litee.nvim: already up to date
+ ✓ j-hui/fidget.nvim: already up to date
+ ✓ jsfaint/gen_tags.vim: already up to date
+ ✓ ray-x/lsp_signature.nvim: already up to date
+ ✓ folke/trouble.nvim: already up to date
+ ✓ norcalli/nvim-colorizer.lua: already up to date
+ ✓ nvim-treesitter/nvim-treesitter: already up to date
+ ✓ ravenxrz/nvim-dap: already up to date
+ ✓ ldelossa/litee-calltree.nvim: already up to date
+ ✓ ravenxrz/neovim-cmake: already up to date
+ ✓ skanehira/preview-markdown.vim: already up to date
+ ✓ mtdl9/vim-log-highlighting: already up to date
+ ✓ ethanholz/nvim-lastplace: already up to date
+ ✓ kevinhwang91/nvim-bqf: already up to date
+ ✓ ravenxrz/vim-local-history: already up to date
+ ✓ AckslD/nvim-neoclip.lua: already up to date
+ ✓ hrsh7th/nvim-cmp: already up to date
+ ✓ tami5/sqlite.lua: already up to date
+ ✓ vim-test/vim-test: already up to date
+ ✓ djoshea/vim-autoread: already up to date
+ ✓ terrortylor/nvim-comment: already up to date
+ ✓ theHamsta/nvim-dap-virtual-text: already up to date
+ ✓ nvim-treesitter/nvim-treesitter-textobjects: already up to date
+ ✓ catppuccin/nvim: already up to date
+ ✓ windwp/nvim-autopairs: already up to date
+ ✓ neovim/nvim-lspconfig: already up to date
+ ✓ michaelb/sniprun: already up to date
+ ✓ rcarriga/vim-ultest: already up to date
+ ✓ Pocco81/AutoSave.nvim: already up to date
+ ✓ ravenxrz/DAPInstall.nvim: already up to date
+ ✓ voldikss/vim-translator: already up to date
+ ✓ Pocco81/HighStr.nvim: already up to date
+ ✓ L3MON4D3/LuaSnip: already up to date
+ ✓ nvim-lualine/lualine.nvim: already up to date
+ ✓ folke/todo-comments.nvim: already up to date
+ ✓ stevearc/aerial.nvim: already up to date
+ ✓ tpope/vim-repeat: already up to date
+ ✓ goolord/alpha-nvim: already up to date
+ ✓ kosayoda/nvim-lightbulb: already up to date
+ ✓ tpope/vim-surround: already up to date
+ ✓ akinsho/bufferline.nvim: already up to date
+ ✓ ahmedkhalf/project.nvim: already up to date
+ ✓ rcarriga/nvim-dap-ui: already up to date
+ ✓ MattesGroeger/vim-bookmarks: already up to date
+ ✓ hrsh7th/cmp-cmdline: already up to date
+ ✓ folke/which-key.nvim: already up to date
+ ✓ nvim-telescope/telescope-dap.nvim: already up to date
+ ✓ hrsh7th/cmp-nvim-lsp: already up to date
+ ✓ sindrets/winshift.nvim: already up to date
+ ✓ nvim-telescope/telescope-fzf-native.nvim: already up to date
+ ✓ hrsh7th/cmp-nvim-lua: already up to date
+ ✓ nvim-telescope/telescope-live-grep-raw.nvim: already up to date
+ ✓ hrsh7th/cmp-path: already up to date
+ ✓ nvim-telescope/telescope-ui-select.nvim: already up to date
+ ✓ tom-anders/telescope-vim-bookmarks.nvim: already up to date
+ ✓ saadparwaiz1/cmp_luasnip: already up to date
+ ✓ ray-x/cmp-treesitter: already up to date
+ ✓ kyazdani42/nvim-web-devicons: already up to date
+ ✓ github/copilot.vim: already up to date
+ ✓ sindrets/diffview.nvim: already up to date
+ ✓ RRethy/vim-illuminate: already up to date
+ ✓ rafamadriz/friendly-snippets: already up to date
+ ✓ wbthomason/packer.nvim: updated: 4dedd3b...00ec5ad
+ ✓ CRAG666/code_runner.nvim: installed
