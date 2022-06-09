@@ -156,20 +156,20 @@ return packer.startup(function(use)
   use "ray-x/cmp-treesitter"
   use "f3fora/cmp-spell" -- spell check
   -- copilot begin--
-  -- use "github/copilot.vim" -- Copilot setup,
-
-  use {
-    "zbirenbaum/copilot.lua", --refine copilot.vim with pure lua
-    event = "InsertEnter",
-    config = function()
-      vim.schedule(function() require("copilot").setup() end)
-    end,
-  }
-
-  use { -- Copilot suggestions will automatically be loaded into your cmp menu as snippets and display their full contents when a copilot suggestion is hovered.
-    "zbirenbaum/copilot-cmp",
-    after = { "copilot.lua", "nvim-cmp" },
-  }
+  use "github/copilot.vim" -- Copilot setup,
+  --
+  -- use {
+  --   "zbirenbaum/copilot.lua", --refine copilot.vim with pure lua
+  --   event = "InsertEnter",
+  --   config = function()
+  --     vim.schedule(function() require("copilot").setup() end)
+  --   end,
+  -- }
+  --
+  -- use { -- Copilot suggestions will automatically be loaded into your cmp menu as snippets and display their full contents when a copilot suggestion is hovered.
+  --   "zbirenbaum/copilot-cmp",
+  --   after = { "copilot.lua", "nvim-cmp" },
+  -- }
 
   -- copilot end --
 
@@ -294,7 +294,7 @@ return packer.startup(function(use)
   use {
     "AckslD/nvim-neoclip.lua",
     requires = {
-      { 'tami5/sqlite.lua', module = 'sqlite' },
+      -- { 'tami5/sqlite.lua', module = 'sqlite' },
       {'nvim-telescope/telescope.nvim'},
     }
     -- config = function()
