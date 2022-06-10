@@ -146,6 +146,7 @@
 - 对于GNU global gtags 
 -  how to build ,   global  and gtags  [https://gist.github.com/alexshgov/7e5ed7841667c66ef5ca4f31664714a9]     (https://gist.github.com/alexshgov/7e5ed7841667c66ef5ca4f31664714a9)
 - download  the gloal source code  [https://ftp.gnu.org/pub/gnu/global/](https://ftp.gnu.org/pub/gnu/global/)   
+- double check ,the packer already have  [https://github.com/wbthomason/packer.nvim]
 
 
 
